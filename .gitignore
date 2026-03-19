@@ -2,3 +2,8 @@
 .DS_Store
 Desktop.ini
 
+# opencode files
+node_modules
+package-lock.json
+bun.lock
+package.json

@@ -1,12 +1,11 @@
 # Fonts & Text Rendering
 font-family = "JetBrainsMono Nerd Font Mono"
 window-title-font-family = "Fira Code Medium"
-font-style = "SemiBold"
+font-style = "Medium"
 font-feature = "feat"
 font-size = 14
 adjust-cell-width  = "-7%"
 adjust-cell-height = "7%"
-
 
 # Theme & Appearance
 theme = light:One Double Light,dark:One Double Dark
@@ -19,29 +18,24 @@ window-height = 40
 window-width  = 170
 window-subtitle          = working-directory
 
-
 # Input & Interaction
 mouse-hide-while-typing = true
 right-click-action     = ignore
 shell-integration = detect
 gtk-tabs-location = hidden
 
-
 # Clipboard & Links
 clipboard-trim-trailing-spaces = true
 link-previews                  = true
-
 
 # Notifications & Bell
 desktop-notifications = false
 bell-features     = false
 bell-audio-volume = 0
 
-
 # Window Behavior
 window-save-state = always
 config-default-files = true
-
 
 # macOS Specific
 macos-titlebar-style = transparent
@@ -53,7 +47,6 @@ macos-icon             = custom-style
 macos-icon-frame       = plastic
 macos-icon-ghost-color = #000000
 macos-icon-screen-color = #FFFFFF
-
 
 # Updates
 auto-update = off

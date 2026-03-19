@@ -1,0 +1,8 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export --path PATH:/Users/tokyo/\x2epyenv/bin\x1e/Users/tokyo/\x2ebun/bin\x1e/opt/homebrew/bin\x1e/Users/tokyo/go/bin\x1e/Users/tokyo/\x2elocal/bin/nvim/bin\x1e/Users/tokyo/\x2elocal/bin\x1e/Users/tokyo/\x2ecargo/bin\x1e/Users/tokyo/\x2eluarocks/bin\x1e/Users/tokyo/\x2elocal/share/nvim/mason/bin\x1e/opt/homebrew/Cellar/pyenv\x2dvirtualenv/1\x2e2\x2e6/shims\x1e/Users/tokyo/\x2epyenv/shims\x1e/Users/tokyo/\x2ebun/bin\x1e/Users/tokyo/\x2elocal/share/mise/installs/node/20\x2e20\x2e0/bin\x1e/opt/homebrew/bin\x1e/opt/homebrew/opt/mise/bin\x1e/usr/local/bin\x1e/System/Cryptexes/App/usr/bin\x1e/usr/bin\x1e/bin\x1e/usr/sbin\x1e/sbin\x1e/var/run/com\x2eapple\x2esecurity\x2ecryptexd/codex\x2esystem/bootstrap/usr/local/bin\x1e/var/run/com\x2eapple\x2esecurity\x2ecryptexd/codex\x2esystem/bootstrap/usr/bin\x1e/var/run/com\x2eapple\x2esecurity\x2ecryptexd/codex\x2esystem/bootstrap/usr/appleinternal/bin\x1e/opt/pmk/env/global/bin\x1e/opt/homebrew/bin\x1e/Applications/Wireshark\x2eapp/Contents/MacOS\x1e/Applications/Ghostty\x2eapp/Contents/MacOS\x1e/usr/local/bin\x1e/usr/bin\x1e/bin\x1e/usr/sbin\x1e/sbin\x1e/Users/tokyo/go/bin\x1e/Users/tokyo/\x2elocal/bin/nvim/bin\x1e/Users/tokyo/\x2elocal/bin\x1e/Users/tokyo/\x2ecargo/bin\x1e/Users/tokyo/\x2eluarocks/bin\x1e/Users/tokyo/\x2eorbstack/bin\x1e/usr/local/bin\x1e/usr/bin\x1e/bin\x1e/usr/sbin\x1e/sbin
+SETUVAR --export PYENV_ROOT:/Users/tokyo/\x2epyenv
+SETUVAR __fish_initialized:4300
+SETUVAR __fish_webconfig_theme_notification:set\x2dtheme\x2dv1\x2d\x231
+SETUVAR __theme_mode:light
+SETUVAR fish_greeting:\x1d
